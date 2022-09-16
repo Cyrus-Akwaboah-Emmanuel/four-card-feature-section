@@ -53,5 +53,5 @@ I learned a bit about box shadow and css animations using keyframes.
 
 ## Author
 
-- Linkedin - [Add your name here](https://www.your-site.com)
+- Linkedin - [Emmanuel Akwaboah]https://www.linkedin.com/in/emmanuel-akwaboah-869753154/)
 - Frontend Mentor - [@Cyrus-Akwaboah-Emmanuel](https://www.frontendmentor.io/profile/Cyrus-Akwaboah-Emmanuel)
